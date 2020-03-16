@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3FB69AF9-C1CF-4B0F-B725-AACBC1B303D7}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{3FB69AF9-C1CF-4B0F-B725-AACBC1B303D7}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{0AEE4AD6-4015-4B51-948E-DBA3900A8221}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Slot_Close" ID="{CFBEFD27-A911-40CC-8E22-38240C66E739}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Player_Jump" ID="{A9091581-E0D6-4125-919C-69CDACA631B0}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Chooping_Log" ID="{91C087C8-FEAD-427D-8CC3-7A8840E054E3}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Main_BGM" ID="{4A007D9E-11CE-4684-9BEF-D8855A5598E6}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Gun_Load" ID="{C7A5312F-832C-46D9-985E-6295725F3992}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Rock_Crash" ID="{967E69E1-7F94-4820-979B-389D7EE42940}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Item_Pickup" ID="{3DCE6621-FF66-48CF-9873-FD8482814EE2}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Branch_Attack" ID="{F8D471DF-91A1-4925-A776-2CD3EEB85FE0}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Rock_CloseAttack" ID="{A5BEDC67-8C28-49BC-B3A9-721AC41E4F40}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Player_Walk" ID="{3AE5F0E6-1B93-4A67-A208-D379C2FF4552}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Gun_Fire" ID="{2159F983-7CDE-4AD9-A514-708499755F9F}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Axe_Attack" ID="{C95CF533-900D-4B55-9256-1E7B4E205BE2}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Slot_Open" ID="{6BE5B1EE-DF1E-4C33-B3E5-1418EED0333D}" WorkUnitID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

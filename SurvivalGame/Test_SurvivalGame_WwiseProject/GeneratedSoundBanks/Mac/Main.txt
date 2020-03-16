@@ -1,0 +1,38 @@
+Event	ID	Name			Wwise Object Path	Notes
+	262604859	Rock_CloseAttack			\Default Work Unit\Rock_CloseAttack	
+	566396871	Item_Pickup			\Default Work Unit\Item_Pickup	
+	643270545	Main_BGM			\Default Work Unit\Main_BGM	
+	1305133589	Player_Jump			\Default Work Unit\Player_Jump	
+	1307166348	Slot_Open			\Default Work Unit\Slot_Open	
+	1400947584	Gun_Load			\Default Work Unit\Gun_Load	
+	1788127293	Chooping_Log			\Default Work Unit\Chooping_Log	
+	1988415144	Slot_Close			\Default Work Unit\Slot_Close	
+	2147561130	Player_Walk			\Default Work Unit\Player_Walk	
+	2386382180	Branch_Attack			\Default Work Unit\Branch_Attack	
+	2517641552	Gun_Fire			\Default Work Unit\Gun_Fire	
+	2816404490	Axe_Attack			\Default Work Unit\Axe_Attack	
+	3625959162	Rock_Crash			\Default Work Unit\Rock_Crash	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	48147040	Jump5_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Jump5_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump\Jump5_1		4782
+	140330309	Chooping_Log3_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Chooping_Log3_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chooping_Log\Chooping_Log3_1		5369
+	226078140	FS_Gravel_03	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\FS_Gravel_03_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footstep\FS_Gravel_03		9919
+	239175352	Chooping_log2_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Chooping_log2_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chooping_Log\Chooping_log2_1		7574
+	246764370	Jump2_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Jump2_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump\Jump2_1		3665
+	317232422	FS_Gravel_01	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\FS_Gravel_01_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footstep\FS_Gravel_01		8315
+	339395410	Item_Pickup_Sound_2	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Item_Pickup_Sound_2_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Item_Pickup_Sound_2		2829
+	497680797	Jump3_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Jump3_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump\Jump3_1		5156
+	542917170	In_Cafe	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\In_Cafe_8ED84DD0.wem		\Actor-Mixer Hierarchy\Default Work Unit\In_Cafe		2857487
+	563502345	Jump4_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Jump4_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump\Jump4_1		3788
+	617755001	Axe_Chopping_selector_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Axe_Chopping_selector_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Axe_Chopping_selector_1		7795
+	627461496	Slot_Close	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Slot_Open_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Slot_Close		5966
+	646864476	pickaxe_rock_crash_2	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\pickaxe_rock_crash_2_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\pickaxe_rock_crash_2		33996
+	661273809	Jump1_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Jump1_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player_Jump\Jump1_1		5147
+	679977692	Handgun_Mag_Load_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Handgun_Mag_Load_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Handgun_Mag_Load_1		59137
+	790126113	Axe_Swings_samsterbirdies_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Axe_Swings_samsterbirdies_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Axe_Swings_samsterbirdies_1		10309
+	856054217	Chopping_log_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Chopping_log_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Chooping_Log\Chopping_log_1		3104
+	894742336	Rifle_Shot_Echo_1	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Rifle_Shot_Echo_1_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rifle_Shot_Echo_1		33509
+	964161971	Branch_Hit_2	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\Branch_Hit_2_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Branch_Hit_2		7880
+	1040642747	FS_Gravel_04	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\FS_Gravel_04_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footstep\FS_Gravel_04		4905
+	1057815753	FS_Gravel_02	Y:\Desktop\Test_SurvivalGame\Test_SurvivalGame_WwiseProject\.cache\Mac\SFX\FS_Gravel_02_F2B9B919.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footstep\FS_Gravel_02		7159
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/kim_ji_su/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Test_SurvivalGame/Test_SurvivalGame_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/kim_ji_su/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Test_SurvivalGame/Test_SurvivalGame_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/kim_ji_su/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Test_SurvivalGame/Test_SurvivalGame_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/kim_ji_su/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Desktop/Test_SurvivalGame/Test_SurvivalGame_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2816404490" Name="Axe_Attack" ObjectPath="\Events\Default Work Unit\Axe_Attack"/>
+				<Event Id="2386382180" Name="Branch_Attack" ObjectPath="\Events\Default Work Unit\Branch_Attack"/>
+				<Event Id="1788127293" Name="Chooping_Log" ObjectPath="\Events\Default Work Unit\Chooping_Log"/>
+				<Event Id="2517641552" Name="Gun_Fire" ObjectPath="\Events\Default Work Unit\Gun_Fire"/>
+				<Event Id="1400947584" Name="Gun_Load" ObjectPath="\Events\Default Work Unit\Gun_Load"/>
+				<Event Id="566396871" Name="Item_Pickup" ObjectPath="\Events\Default Work Unit\Item_Pickup"/>
+				<Event Id="643270545" Name="Main_BGM" ObjectPath="\Events\Default Work Unit\Main_BGM"/>
+				<Event Id="1305133589" Name="Player_Jump" ObjectPath="\Events\Default Work Unit\Player_Jump"/>
+				<Event Id="2147561130" Name="Player_Walk" ObjectPath="\Events\Default Work Unit\Player_Walk"/>
+				<Event Id="262604859" Name="Rock_CloseAttack" ObjectPath="\Events\Default Work Unit\Rock_CloseAttack"/>
+				<Event Id="3625959162" Name="Rock_Crash" ObjectPath="\Events\Default Work Unit\Rock_Crash" MaxAttenuation="100.000000"/>
+				<Event Id="1988415144" Name="Slot_Close" ObjectPath="\Events\Default Work Unit\Slot_Close"/>
+				<Event Id="1307166348" Name="Slot_Open" ObjectPath="\Events\Default Work Unit\Slot_Open"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="48147040" Language="SFX">
+					<ShortName>Jump5_1.wav</ShortName>
+					<Path>SFX/Jump5_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="140330309" Language="SFX">
+					<ShortName>Chooping_Log3_1.wav</ShortName>
+					<Path>SFX/Chooping_Log3_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="226078140" Language="SFX">
+					<ShortName>FS_Gravel_03.wav</ShortName>
+					<Path>SFX/FS_Gravel_03_F2B9B919.wem</Path>
+				</File>
+				<File Id="239175352" Language="SFX">
+					<ShortName>Chooping_log2_1.wav</ShortName>
+					<Path>SFX/Chooping_log2_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="246764370" Language="SFX">
+					<ShortName>Jump2_1.wav</ShortName>
+					<Path>SFX/Jump2_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="317232422" Language="SFX">
+					<ShortName>FS_Gravel_01.wav</ShortName>
+					<Path>SFX/FS_Gravel_01_F2B9B919.wem</Path>
+				</File>
+				<File Id="339395410" Language="SFX">
+					<ShortName>Item_Pickup_Sound_2.wav</ShortName>
+					<Path>SFX/Item_Pickup_Sound_2_F2B9B919.wem</Path>
+				</File>
+				<File Id="497680797" Language="SFX">
+					<ShortName>Jump3_1.wav</ShortName>
+					<Path>SFX/Jump3_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="542917170" Language="SFX">
+					<ShortName>In_Cafe.wav</ShortName>
+					<Path>SFX/In_Cafe_8ED84DD0.wem</Path>
+				</File>
+				<File Id="563502345" Language="SFX">
+					<ShortName>Jump4_1.wav</ShortName>
+					<Path>SFX/Jump4_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="617755001" Language="SFX">
+					<ShortName>Axe_Chopping_selector_1.wav</ShortName>
+					<Path>SFX/Axe_Chopping_selector_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="627461496" Language="SFX">
+					<ShortName>Slot_Open.wav</ShortName>
+					<Path>SFX/Slot_Open_F2B9B919.wem</Path>
+				</File>
+				<File Id="646864476" Language="SFX">
+					<ShortName>pickaxe_rock_crash_2.wav</ShortName>
+					<Path>SFX/pickaxe_rock_crash_2_F2B9B919.wem</Path>
+				</File>
+				<File Id="661273809" Language="SFX">
+					<ShortName>Jump1_1.wav</ShortName>
+					<Path>SFX/Jump1_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="679977692" Language="SFX">
+					<ShortName>Handgun_Mag_Load_1.wav</ShortName>
+					<Path>SFX/Handgun_Mag_Load_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="790126113" Language="SFX">
+					<ShortName>Axe_Swings_samsterbirdies_1.wav</ShortName>
+					<Path>SFX/Axe_Swings_samsterbirdies_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="856054217" Language="SFX">
+					<ShortName>Chopping_log_1.wav</ShortName>
+					<Path>SFX/Chopping_log_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="894742336" Language="SFX">
+					<ShortName>Rifle_Shot_Echo_1.wav</ShortName>
+					<Path>SFX/Rifle_Shot_Echo_1_F2B9B919.wem</Path>
+				</File>
+				<File Id="964161971" Language="SFX">
+					<ShortName>Branch_Hit_2.wav</ShortName>
+					<Path>SFX/Branch_Hit_2_F2B9B919.wem</Path>
+				</File>
+				<File Id="1040642747" Language="SFX">
+					<ShortName>FS_Gravel_04.wav</ShortName>
+					<Path>SFX/FS_Gravel_04_F2B9B919.wem</Path>
+				</File>
+				<File Id="1057815753" Language="SFX">
+					<ShortName>FS_Gravel_02.wav</ShortName>
+					<Path>SFX/FS_Gravel_02_F2B9B919.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

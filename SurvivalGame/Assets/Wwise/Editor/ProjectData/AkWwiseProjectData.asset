@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 082b66cc747ce4ceda4fe223690b4158, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: d14e4a85bb4cef49b618bd80ca6f6f9d
+    GuidInternal: 
+    m_lastTime: -8586173332594775808
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: ffd44c35f8ba014fabab7298022ba650
+    GuidInternal: 
+    m_lastTime: -8586173332594775808
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: f99ab63fcfc10f4bb725aacbc1b303d7
+    GuidInternal: 
+    m_lastTime: -8586173276944775808
+    List:
+    - name: Main
+      guid: d64aee0a1540514b948edba3900a8221
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: Default Work Unit/Main
+  EventWwu:
+  - PhysicalPath: Events/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: e065fc14e6aa7a4bbb6be24aac9eb045
+    GuidInternal: 
+    m_lastTime: -8586173276944775808
+    List:
+    - name: Axe_Attack
+      guid: 33f55cc90d90554b92561e7b4e205be2
+      id: 2816404490
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Axe_Attack
+        ObjectType: 3
+      Path: Default Work Unit/Axe_Attack
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Player_Jump
+      guid: 811509a9d6e02541919c69cdaca631b0
+      id: 1305133589
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player_Jump
+        ObjectType: 3
+      Path: Default Work Unit/Player_Jump
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Player_Walk
+      guid: e6f0e53a931b674aa208d379c2ff4552
+      id: 2147561130
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Player_Walk
+        ObjectType: 3
+      Path: Default Work Unit/Player_Walk
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: Rock_CloseAttack
+      guid: 67dcbea5288cbc49b3a9721ac41e4f40
+      id: 262604859
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Rock_CloseAttack
+        ObjectType: 3
+      Path: Default Work Unit/Rock_CloseAttack
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 5b2641f79356cf40a67bcc3f4dee5ddc
+    GuidInternal: 
+    m_lastTime: -8586173332594775808
+    List: []
+  StateWwu:
+  - PhysicalPath: States/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 330b77ff03bc2c4587b6ae4b9215ea9f
+    GuidInternal: 
+    m_lastTime: -8586173332594775808
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: c74dcb4f285e7e44b327fa5e06df97eb
+    GuidInternal: 
+    m_lastTime: -8586173332594775808
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 05256ef2860bac4c819443566d900613
+    GuidInternal: 
+    m_lastTime: -8586173332594775808
+    List: []
+  ExpandedItems:
+  - /Test_SurvivalGame_WwiseProject
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

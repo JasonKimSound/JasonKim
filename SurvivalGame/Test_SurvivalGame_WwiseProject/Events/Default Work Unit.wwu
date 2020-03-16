@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{14FC65E0-AAE6-4B7A-BB6B-E24AAC9EB045}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Axe_Attack" ID="{C95CF533-900D-4B55-9256-1E7B4E205BE2}">
+					<ChildrenList>
+						<Action Name="" ID="{C9E4FA85-46E5-4C2F-8E22-F5EE141B0F52}" ShortID="135691753">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Axe_Swings_samsterbirdies_1" ID="{4801B201-26D5-47E1-9D0A-FDD9B8FA329C}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Rock_CloseAttack" ID="{A5BEDC67-8C28-49BC-B3A9-721AC41E4F40}">
+					<ChildrenList>
+						<Action Name="" ID="{FF463B0F-1C71-4797-BDF0-19821E5AD145}" ShortID="907276098">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Axe_Chopping_selector_1" ID="{3197D2FD-7EDF-419C-9536-5F136EE27953}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player_Jump" ID="{A9091581-E0D6-4125-919C-69CDACA631B0}">
+					<ChildrenList>
+						<Action Name="" ID="{1CC29D03-8CB4-4121-B929-28E1D69D06B4}" ShortID="673758478">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player_Jump" ID="{344F59D5-D867-477D-A5DA-1B3136E6CAD3}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player_Walk" ID="{3AE5F0E6-1B93-4A67-A208-D379C2FF4552}">
+					<ChildrenList>
+						<Action Name="" ID="{F1D48198-8579-423B-B682-E66195228340}" ShortID="441277645">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footstep" ID="{62EBC54E-0D38-4998-A844-8DFCC1558BC7}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Gun_Fire" ID="{2159F983-7CDE-4AD9-A514-708499755F9F}">
+					<ChildrenList>
+						<Action Name="" ID="{328A2ABC-209C-4361-A029-F591809292F8}" ShortID="484934432">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Rifle_Shot_Echo_1" ID="{9897B8A9-2F92-4C60-90D4-46700465645D}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Gun_Load" ID="{C7A5312F-832C-46D9-985E-6295725F3992}">
+					<ChildrenList>
+						<Action Name="" ID="{20FA7698-59DB-4287-B032-ACB662DE4735}" ShortID="262694721">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Handgun_Mag_Load_1" ID="{C6F42391-6BA8-44BC-BC2D-30D49A010B96}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Branch_Attack" ID="{F8D471DF-91A1-4925-A776-2CD3EEB85FE0}">
+					<ChildrenList>
+						<Action Name="" ID="{D5EEE5C4-F412-4272-9571-83A4C75FC3CB}" ShortID="396445816">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Branch_Hit_2" ID="{C97EFB65-96C5-4CCF-BD1F-085228E48755}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Chooping_Log" ID="{91C087C8-FEAD-427D-8CC3-7A8840E054E3}">
+					<ChildrenList>
+						<Action Name="" ID="{EDAFF5A3-53AA-4BB2-AE4F-8C50D8299573}" ShortID="1042984675">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Chooping_Log" ID="{8CE97154-BCC9-4522-B639-118786549930}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Rock_Crash" ID="{967E69E1-7F94-4820-979B-389D7EE42940}">
+					<ChildrenList>
+						<Action Name="" ID="{34C4D7A5-5C7A-462C-BA42-54A88D469F83}" ShortID="100900947">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="pickaxe_rock_crash_2" ID="{45D55A50-6C24-44D3-86A5-C7A471A01B25}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Item_Pickup" ID="{3DCE6621-FF66-48CF-9873-FD8482814EE2}">
+					<ChildrenList>
+						<Action Name="" ID="{31CC7984-D7A3-4CEA-A386-A2C261A4E387}" ShortID="613551529">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Item_Pickup_Sound_2" ID="{94EE9756-0506-4F0B-BD44-DC04AF7E0F80}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Main_BGM" ID="{4A007D9E-11CE-4684-9BEF-D8855A5598E6}">
+					<ChildrenList>
+						<Action Name="" ID="{062CEC0C-2426-4AE9-A5FA-3E01B3E7EB76}" ShortID="960074983">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="In_Cafe" ID="{8AAECDC4-FBDB-4358-BF22-27B7391983C1}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Slot_Open" ID="{6BE5B1EE-DF1E-4C33-B3E5-1418EED0333D}">
+					<ChildrenList>
+						<Action Name="" ID="{B0196B64-2235-4CF3-BECC-91BD5B9B99FD}" ShortID="62634155">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Slot_Open" ID="{EA57C923-31B1-466F-A0ED-097FD6E06C25}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Slot_Close" ID="{CFBEFD27-A911-40CC-8E22-38240C66E739}">
+					<ChildrenList>
+						<Action Name="" ID="{F7515CD8-93E2-4F1B-B408-338498335D80}" ShortID="1000785125">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Slot_Close" ID="{D1BCC6E9-3F74-422A-B9BC-E7770D4BFA4B}" WorkUnitID="{80A0D24B-03EC-46B7-B38A-FD4C0E331FA4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
